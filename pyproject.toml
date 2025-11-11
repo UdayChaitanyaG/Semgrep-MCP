@@ -46,11 +46,11 @@ dependencies = [
 text = "MIT"
 
 [project.urls]
-Homepage = "https://github.com/semgrep/mcp"
-Repository = "https://github.com/semgrep/mcp.git"
-Issues = "https://github.com/semgrep/mcp/issues"
-Documentation = "https://github.com/semgrep/mcp#readme"
-Changelog = "https://github.com/semgrep/mcp/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/UdayChaitanyaG/Semgrep-MCP"
+Repository = "https://github.com/UdayChaitanyaG/Semgrep-MCP.git"
+Issues = "https://github.com/UdayChaitanyaG/Semgrep-MCP/issues"
+Documentation = "https://github.com/UdayChaitanyaG/Semgrep-MCP#readme"
+Changelog = "https://github.com/UdayChaitanyaG/Semgrep-MCP/blob/main/CHANGELOG.md"
 
 [project.scripts]
 semgrep-mcp = "semgrep_mcp.server:main"
